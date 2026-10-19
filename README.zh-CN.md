@@ -9,6 +9,7 @@
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black?logo=apple)](#安装)
 [![Swift](https://img.shields.io/badge/Swift-SwiftUI%20%2B%20AVFoundation-F05138?logo=swift&logoColor=white)](#从源码构建)
 [![下载](https://img.shields.io/github/v/release/ThCyber/AcapellaGrid?label=下载)](https://github.com/ThCyber/AcapellaGrid/releases/latest)
+[![License: MIT](https://img.shields.io/badge/许可证-MIT-blue)](LICENSE)
 
 [English](README.md) · 简体中文
 
@@ -187,3 +188,7 @@ AcapellaGrid/
 ├── HostTime.swift            # mach 主机时间工具函数
 └── Views/                    # SwiftUI 界面：网格、节拍条、对齐、校准
 ```
+
+## 许可证
+
+[MIT](LICENSE) © 2026 samuelcai

@@ -9,6 +9,7 @@
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black?logo=apple)](#install)
 [![Swift](https://img.shields.io/badge/Swift-SwiftUI%20%2B%20AVFoundation-F05138?logo=swift&logoColor=white)](#build-from-source)
 [![Download](https://img.shields.io/github/v/release/ThCyber/AcapellaGrid?label=download)](https://github.com/ThCyber/AcapellaGrid/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 English · [简体中文](README.zh-CN.md)
 
@@ -187,3 +188,7 @@ AcapellaGrid/
 ├── HostTime.swift            # mach host-time helpers
 └── Views/                    # SwiftUI: grid, beat strip, Align, Calibrate
 ```
+
+## License
+
+[MIT](LICENSE) © 2026 samuelcai
